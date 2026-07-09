@@ -1,2 +1,180 @@
-# leetcode---solutions
-🤖 AI-powered Chrome Extension that automatically syncs accepted LeetCode solutions to GitHub with optimized solutions, explanations, complexity analysis, and beautiful documentation.
+<div align="center">
+
+# 🚀 LeetCode AI Sync
+
+### Your Personal AI-Powered LeetCode Companion
+
+Automatically detect accepted LeetCode submissions, generate AI-enhanced explanations, and sync everything to GitHub — effortlessly.
+
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue)
+![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-green)
+![Manifest V3](https://img.shields.io/badge/Manifest-V3-orange)
+![GitHub](https://img.shields.io/badge/GitHub-Automated-black)
+
+</div>
+
+---
+
+# ✨ Overview
+
+LeetCode AI Sync is a Chrome Extension that automatically detects every accepted LeetCode submission and transforms it into a beautifully documented GitHub repository.
+
+Instead of simply uploading your solution, it enriches every problem with AI-generated explanations, optimized approaches, complexity analysis, edge cases, and interview notes—creating a searchable personal knowledge base.
+
+---
+
+# 🔥 Features
+
+## ⚡ Automatic Detection
+
+- Detects Accepted submissions instantly
+- Works directly inside LeetCode
+- No manual copy-paste
+
+---
+
+## 🤖 AI Documentation
+
+Automatically generates:
+
+- ✅ Problem Summary
+- ✅ Solution Explanation
+- ✅ Optimized Solution
+- ✅ Dry Run
+- ✅ Time Complexity
+- ✅ Space Complexity
+- ✅ Edge Cases
+- ✅ Interview Tips
+- ✅ Learning Notes
+
+---
+
+## 📂 Smart GitHub Organization
+
+```
+leetcode/
+
+├── Arrays/
+│   └── Two Sum/
+│       ├── README.md
+│       ├── solution.cpp
+│       └── metadata.json
+│
+├── Graph/
+├── DP/
+├── Trees/
+└── Sliding Window/
+```
+
+---
+
+## 📈 Repository Statistics
+
+Automatically updates:
+
+- Total Problems Solved
+- Easy / Medium / Hard Count
+- Topic-wise Progress
+- Latest Solved Problems
+- Current Streak (optional)
+
+---
+
+## 🔐 Secure
+
+- GitHub Personal Access Token stored locally
+- No third-party servers
+- Your code never leaves your device except GitHub and your chosen AI provider
+
+---
+
+# 🛠 Tech Stack
+
+- TypeScript
+- Chrome Extension (Manifest V3)
+- Vite
+- GitHub REST API
+- Octokit
+- Gemini / OpenAI
+- Chrome Storage API
+
+---
+
+# 🚀 Workflow
+
+```text
+Solve Problem
+      │
+      ▼
+Accepted Submission
+      │
+      ▼
+Extract Solution
+      │
+      ▼
+Generate AI Documentation
+      │
+      ▼
+Organize Files
+      │
+      ▼
+Commit to GitHub
+      │
+      ▼
+Done 🎉
+```
+
+---
+
+# 📄 Generated README Example
+
+Every problem automatically contains:
+
+- Problem Description
+- Original Solution
+- AI Explanation
+- Optimized Solution
+- Complexity Analysis
+- Dry Run
+- Edge Cases
+- Similar Problems
+- Revision Notes
+
+---
+
+# 🎯 Why This Project?
+
+Most sync tools only upload code.
+
+LeetCode AI Sync converts every solved problem into a reusable learning resource, making GitHub your personal interview preparation knowledge base.
+
+---
+
+# 📸 Preview
+
+> Screenshots coming soon.
+
+---
+
+# 🗺 Roadmap
+
+- [x] Detect Accepted submissions
+- [x] Automatic GitHub Sync
+- [x] AI-generated documentation
+- [ ] Multi-language support
+- [ ] Code Review
+- [ ] One-click Re-sync
+- [ ] Statistics Dashboard
+
+---
+
+# 🤝 Contributing
+
+This project is currently developed as a personal productivity tool. Suggestions and improvements are always welcome.
+
+---
+
+# ⭐ If you find this project useful
+
+Consider giving it a ⭐ on GitHub!
