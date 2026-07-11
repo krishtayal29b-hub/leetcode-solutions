@@ -185,4 +185,5 @@ Consider giving it a ⭐ on GitHub!
 | # | Problem | Difficulty | Language | Runtime | Memory | Date |
 |---|---|---|---|---|---|---|
 | 1 | [Two Sum](problems/0001-two-sum/) | Easy | cpp | 46 ms | 14.2 MB | 2026-07-11 |
+| 2 | [Add Two Numbers](problems/0002-add-two-numbers/) | Medium | cpp | 0 ms | 77 MB | 2026-07-11 |
 <!-- LGS:PROBLEMS-TABLE:END -->
