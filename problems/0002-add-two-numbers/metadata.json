@@ -1,0 +1,20 @@
+{
+  "problemId": 2,
+  "slug": "add-two-numbers",
+  "title": "Add Two Numbers",
+  "difficulty": "Medium",
+  "language": "cpp",
+  "submissionTimeIso": "2026-07-11T10:40:59.298Z",
+  "runtimeDisplay": "0 ms",
+  "runtimePercentile": 100,
+  "memoryDisplay": "77 MB",
+  "memoryPercentile": 75.23010000000005,
+  "tags": [
+    "Linked List",
+    "Math",
+    "Recursion"
+  ],
+  "url": "https://leetcode.com/problems/add-two-numbers/",
+  "commitSha": "cef855006cded0c2bbf110b6b23c32be7ef97530",
+  "contentHash": "-50d4a589"
+}
