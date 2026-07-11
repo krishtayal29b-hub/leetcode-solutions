@@ -1,0 +1,19 @@
+{
+  "problemId": 1,
+  "slug": "two-sum",
+  "title": "Two Sum",
+  "difficulty": "Easy",
+  "language": "cpp",
+  "submissionTimeIso": "2026-07-11T10:38:37.537Z",
+  "runtimeDisplay": "46 ms",
+  "runtimePercentile": 14.059899999999997,
+  "memoryDisplay": "14.2 MB",
+  "memoryPercentile": 64.62570000000002,
+  "tags": [
+    "Array",
+    "Hash Table"
+  ],
+  "url": "https://leetcode.com/problems/two-sum/",
+  "commitSha": "967852dfebfb7e65655dcf74624667b9097fe893",
+  "contentHash": "-2d1b7fc2"
+}
