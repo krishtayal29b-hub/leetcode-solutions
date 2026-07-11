@@ -178,3 +178,11 @@ This project is currently developed as a personal productivity tool. Suggestions
 # ⭐ If you find this project useful
 
 Consider giving it a ⭐ on GitHub!
+
+<!-- LGS:PROBLEMS-TABLE:START -->
+# LeetCode Solutions
+
+| # | Problem | Difficulty | Language | Runtime | Memory | Date |
+|---|---|---|---|---|---|---|
+| 1 | [Two Sum](problems/0001-two-sum/) | Easy | cpp | 46 ms | 14.2 MB | 2026-07-11 |
+<!-- LGS:PROBLEMS-TABLE:END -->
