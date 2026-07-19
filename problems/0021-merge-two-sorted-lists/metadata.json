@@ -1,0 +1,19 @@
+{
+  "problemId": 21,
+  "slug": "merge-two-sorted-lists",
+  "title": "Merge Two Sorted Lists",
+  "difficulty": "Easy",
+  "language": "cpp",
+  "submissionTimeIso": "2026-07-19T18:29:14.684Z",
+  "runtimeDisplay": "0 ms",
+  "runtimePercentile": 100,
+  "memoryDisplay": "19.6 MB",
+  "memoryPercentile": 9.063200000000002,
+  "tags": [
+    "Linked List",
+    "Recursion"
+  ],
+  "url": "https://leetcode.com/problems/merge-two-sorted-lists/",
+  "commitSha": "4c1c3ef67eae09d2b5b4187d54638632f76f46b6",
+  "contentHash": "6cbd08b2"
+}
