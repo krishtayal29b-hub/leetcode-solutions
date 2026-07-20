@@ -28,7 +28,7 @@ public:
         int right = gap;
 
         while(right < len){
-            if(left < n && right >= n){
+            if(left < m && right >= n){
                 if(nums1[left] > nums2[right - n])
                 swap(nums1[left] , nums2[right - n]);
             }
