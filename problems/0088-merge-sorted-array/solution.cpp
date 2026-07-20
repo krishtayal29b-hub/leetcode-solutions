@@ -29,12 +29,12 @@ public:
 
         while(right < len){
             if(left < m && right >= n){
-                if(nums1[left] > nums2[right - n])
-                swap(nums1[left] , nums2[right - n]);
+                if(nums1[left] > nums2[right - m])
+                swap(nums1[left] , nums2[right - m]);
             }
-            else if(left >= n){
-                if(nums2[left - n] > nums2[right - n])
-                swap(nums2[left - n] , nums2[right - n]);
+            else if(left >= m){
+                if(nums2[left - m] > nums2[right - m])
+                swap(nums2[left - m] , nums2[right - m]);
             }
             else{
                 if(nums1[left] > nums1[right])
