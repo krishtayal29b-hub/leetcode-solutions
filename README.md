@@ -187,4 +187,5 @@ Consider giving it a ⭐ on GitHub!
 | 1 | [Two Sum](problems/0001-two-sum/) | Easy | cpp | 46 ms | 14.2 MB | 2026-07-11 |
 | 2 | [Add Two Numbers](problems/0002-add-two-numbers/) | Medium | cpp | 0 ms | 77 MB | 2026-07-11 |
 | 21 | [Merge Two Sorted Lists](problems/0021-merge-two-sorted-lists/) | Easy | cpp | 0 ms | 19.6 MB | 2026-07-19 |
+| 56 | [Merge Intervals](problems/0056-merge-intervals/) | Medium | cpp | N/A | N/A | 2026-07-20 |
 <!-- LGS:PROBLEMS-TABLE:END -->
