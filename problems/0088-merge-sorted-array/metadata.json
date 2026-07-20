@@ -4,7 +4,7 @@
   "title": "Merge Sorted Array",
   "difficulty": "Easy",
   "language": "cpp",
-  "submissionTimeIso": "2026-07-20T16:31:02.169Z",
+  "submissionTimeIso": "2026-07-20T16:32:28.394Z",
   "runtimeDisplay": "N/A",
   "runtimePercentile": null,
   "memoryDisplay": "N/A",
@@ -15,6 +15,6 @@
     "Sorting"
   ],
   "url": "https://leetcode.com/problems/merge-sorted-array/",
-  "commitSha": "33631e09b4dc1977a0ba7440efce198af4cf0ddf",
-  "contentHash": "5c14c08a"
+  "commitSha": "32ab0386cfedeeac5ef9c5c8b18b374ecbf5b5b4",
+  "contentHash": "-38943c95"
 }
