@@ -4,7 +4,7 @@
   "title": "Merge Intervals",
   "difficulty": "Medium",
   "language": "cpp",
-  "submissionTimeIso": "2026-07-20T13:32:41.584Z",
+  "submissionTimeIso": "2026-07-20T13:33:06.127Z",
   "runtimeDisplay": "N/A",
   "runtimePercentile": null,
   "memoryDisplay": "N/A",
@@ -14,6 +14,6 @@
     "Sorting"
   ],
   "url": "https://leetcode.com/problems/merge-intervals/",
-  "commitSha": "e7cbad85994ee939a18cd48432f9fa3a5a5efcea",
-  "contentHash": "ab3cb1d"
+  "commitSha": "0ca5e4d484b47b0bfd9045d269a1061916a6dee9",
+  "contentHash": "35541090"
 }
