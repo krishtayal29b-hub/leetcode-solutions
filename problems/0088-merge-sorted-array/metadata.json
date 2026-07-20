@@ -1,0 +1,20 @@
+{
+  "problemId": 88,
+  "slug": "merge-sorted-array",
+  "title": "Merge Sorted Array",
+  "difficulty": "Easy",
+  "language": "cpp",
+  "submissionTimeIso": "2026-07-20T16:01:51.966Z",
+  "runtimeDisplay": "N/A",
+  "runtimePercentile": null,
+  "memoryDisplay": "N/A",
+  "memoryPercentile": null,
+  "tags": [
+    "Array",
+    "Two Pointers",
+    "Sorting"
+  ],
+  "url": "https://leetcode.com/problems/merge-sorted-array/",
+  "commitSha": "53ad8d2e581433fc0a813d0d49cd4957d23fa31d",
+  "contentHash": "-2a74742a"
+}
