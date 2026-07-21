@@ -1,0 +1,20 @@
+{
+  "problemId": 15,
+  "slug": "3sum",
+  "title": "3Sum",
+  "difficulty": "Medium",
+  "language": "cpp",
+  "submissionTimeIso": "2026-07-21T17:52:33.680Z",
+  "runtimeDisplay": "39 ms",
+  "runtimePercentile": 94.93779999999995,
+  "memoryDisplay": "29.1 MB",
+  "memoryPercentile": 47.41309999999996,
+  "tags": [
+    "Array",
+    "Two Pointers",
+    "Sorting"
+  ],
+  "url": "https://leetcode.com/problems/3sum/",
+  "commitSha": "8814019465d498966a0aa9ba09ef1598a6ff8336",
+  "contentHash": "2f6308e2"
+}
