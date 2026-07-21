@@ -4,17 +4,17 @@
   "title": "3Sum",
   "difficulty": "Medium",
   "language": "cpp",
-  "submissionTimeIso": "2026-07-21T17:52:33.680Z",
-  "runtimeDisplay": "39 ms",
-  "runtimePercentile": 94.93779999999995,
-  "memoryDisplay": "29.1 MB",
-  "memoryPercentile": 47.41309999999996,
+  "submissionTimeIso": "2026-07-21T18:20:25.418Z",
+  "runtimeDisplay": "N/A",
+  "runtimePercentile": null,
+  "memoryDisplay": "N/A",
+  "memoryPercentile": null,
   "tags": [
     "Array",
     "Two Pointers",
     "Sorting"
   ],
   "url": "https://leetcode.com/problems/3sum/",
-  "commitSha": "8814019465d498966a0aa9ba09ef1598a6ff8336",
-  "contentHash": "2f6308e2"
+  "commitSha": "da294046153fab88367b31b5a9432c2e7ba8c43c",
+  "contentHash": "74c22819"
 }
