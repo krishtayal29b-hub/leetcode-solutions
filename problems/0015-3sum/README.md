@@ -4,9 +4,9 @@
 **Topics:** Array, Two Pointers, Sorting
 **Link:** [https://leetcode.com/problems/3sum/](https://leetcode.com/problems/3sum/)
 **Language:** cpp
-**Runtime:** 39 ms (beats 94.9%)
-**Memory:** 29.1 MB (beats 47.4%)
-**Solved:** 2026-07-21T17:52:33.680Z
+**Runtime:** N/A
+**Memory:** N/A
+**Solved:** 2026-07-21T18:20:25.418Z
 
 ## Approach
 
