@@ -1,0 +1,19 @@
+{
+  "problemId": 118,
+  "slug": "pascals-triangle",
+  "title": "Pascal's Triangle",
+  "difficulty": "Easy",
+  "language": "cpp",
+  "submissionTimeIso": "2026-07-21T17:52:17.767Z",
+  "runtimeDisplay": "0 ms",
+  "runtimePercentile": 100,
+  "memoryDisplay": "9.6 MB",
+  "memoryPercentile": 63.9189,
+  "tags": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "url": "https://leetcode.com/problems/pascals-triangle/",
+  "commitSha": "812cc736600ecae6a2c945103ddd708dacd92a28",
+  "contentHash": "25b37bb1"
+}
