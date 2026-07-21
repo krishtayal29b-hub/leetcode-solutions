@@ -19,8 +19,8 @@ public:
                     k--;
                     j++;
                 }
-                if(j<k && nums[j-1] == nums[j]) continue;
-                if(j<k && nums[k+1] == nums[k]) continue;
+                while(j<k && nums[j-1] == nums[j]) continue;
+                while(j<k && nums[k+1] == nums[k]) continue;
             }
                 
             }
