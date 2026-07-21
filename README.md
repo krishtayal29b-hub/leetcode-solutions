@@ -190,5 +190,5 @@ Consider giving it a ⭐ on GitHub!
 | 56 | [Merge Intervals](problems/0056-merge-intervals/) | Medium | cpp | N/A | N/A | 2026-07-20 |
 | 88 | [Merge Sorted Array](problems/0088-merge-sorted-array/) | Easy | cpp | N/A | N/A | 2026-07-20 |
 | 118 | [Pascal's Triangle](problems/0118-pascals-triangle/) | Easy | cpp | 0 ms | 9.6 MB | 2026-07-21 |
-| 15 | [3Sum](problems/0015-3sum/) | Medium | cpp | 39 ms | 29.1 MB | 2026-07-21 |
+| 15 | [3Sum](problems/0015-3sum/) | Medium | cpp | 89 ms | 31.1 MB | 2026-07-21 |
 <!-- LGS:PROBLEMS-TABLE:END -->
