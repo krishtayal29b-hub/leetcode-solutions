@@ -1,0 +1,24 @@
+{
+  "problemId": 493,
+  "slug": "reverse-pairs",
+  "title": "Reverse Pairs",
+  "difficulty": "Hard",
+  "language": "cpp",
+  "submissionTimeIso": "2026-07-23T18:25:39.277Z",
+  "runtimeDisplay": "N/A",
+  "runtimePercentile": null,
+  "memoryDisplay": "N/A",
+  "memoryPercentile": null,
+  "tags": [
+    "Array",
+    "Binary Search",
+    "Divide and Conquer",
+    "Binary Indexed Tree",
+    "Segment Tree",
+    "Merge Sort",
+    "Ordered Set"
+  ],
+  "url": "https://leetcode.com/problems/reverse-pairs/",
+  "commitSha": "5937bdc051e03f5bf052593c853eadd7f40989a3",
+  "contentHash": "31e75af9"
+}
