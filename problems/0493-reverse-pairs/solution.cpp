@@ -3,8 +3,8 @@ public:
         int cnt = 0;
     void reversepairs(vector<int>& arr, int low, int mid, int high, int n){
         int right = mid + 1;
-        for(int i = 0;i <= mid; i++){
-            while(right <= high && (arr[i] > arr[right]*2)){
+        for(int i = low;i <= mid; i++){
+            while(right <= high && ((long long)arr[i] > arr[right]*2LL)){
                 right++;
             } 
             cnt += (right - (mid + 1));
@@ -35,14 +35,14 @@ public:
             right++;   
         }
 
-        for(int i = low;i<high ;i++){
+        for(int i = low; i<= high ; i++){
             arr[i] = temp[i - low];
         }
     }
 
     void mergesort(vector<int>& arr, int low, int high){
         if(low >= high) return;
-        int mid = low + (high - low)/2;
+        int mid = (high + low)/2;
         mergesort(arr,low, mid);
         mergesort(arr, mid+1, high);
         int n = arr.size();
