@@ -4,7 +4,7 @@ public:
     void reversepairs(vector<int>& arr, int low, int mid, int high, int n){
         int right = mid + 1;
         for(int i = 0;i <= mid; i++){
-            while((arr[i] > arr[right]*2) && right <= high){
+            while(right <= high && (arr[i] > arr[right]*2)){
                 right++;
             } 
             cnt += (right - (mid + 1));
@@ -42,7 +42,7 @@ public:
 
     void mergesort(vector<int>& arr, int low, int high){
         if(low >= high) return;
-        int mid = (low + high)/2;
+        int mid = low + (high - low)/2;
         mergesort(arr,low, mid);
         mergesort(arr, mid+1, high);
         int n = arr.size();
